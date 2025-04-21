@@ -21,3 +21,5 @@ if __name__ == '__main__':
 print("hello man")
 
 print("bruhhh")
+
+print("hello man how are u doing")
